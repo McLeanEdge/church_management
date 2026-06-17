@@ -16,6 +16,7 @@ import DofuDataPage from './components/DofuDataPage';
 import MemberModal from './components/MemberModal';
 import ProfileModal from './components/ProfileModal';
 
+
 const PAGE_META = {
   dashboard: ['Dashboard', "Welcome to Throne of God's Grace Ministries"],
   members: ['All Members', 'Browse and manage your church family'],
